@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=모양&color=8AC0F2&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=footer" />
