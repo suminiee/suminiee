@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=header" />
 
 🦁💙 menow ➡️ 야구보는거 좋아함 gitub 꾸미기 어렵땅
+
 🌱 Spring 공부중 ing...
+
 📬 chansu0114@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
