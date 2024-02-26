@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=header" />
 
-🦁💙 menow ➡️ 야구보는거 좋아함 gitub 꾸미기 어렵땅
+🦁💙 menow ➡️ 야구보는거 좋아함 github 꾸미기 짱 어렵다
 
 🌱 Spring 공부중 ing...
 
