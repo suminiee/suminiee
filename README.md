@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO WORLD! 👋
 
 <!--
 **suminiee/suminiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=header" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=footer" />
