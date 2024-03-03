@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=header" />
+
 
 🦁💙 menow ➡️ 야구보는거 좋아함 github 꾸미기 짱 어렵다 모르겠어서 아무거나적는중 우하하
 
@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 📬 chansu0114@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8AC0F2&height=150&section=footer" />
