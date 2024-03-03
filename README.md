@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-🦁💙 menow ➡️ 야구보는거 좋아함 github 꾸미기 짱 어렵다 모르겠어서 아무거나적는중 우하하
-
 🌱 Spring 공부중 ing...
 
-📬 chansu0114@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
