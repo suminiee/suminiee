@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Spring 공부중 ing...
+🌱 Spring 공부중
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
