@@ -1,4 +1,4 @@
-### HELLO WORLD! 👋
+### HELLO
 
 <!--
 **suminiee/suminiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Spring 공부중
+🌱 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suminiee)](https://github.com/anuraghazra/github-readme-stats)
+-->
