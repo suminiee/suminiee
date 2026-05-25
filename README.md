@@ -33,7 +33,7 @@
 <br>
 
 ## 🎖 Certificates & Skills
-* **AWS:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
+* **AWS:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner, AWS Certified Solutions Architect - Associate
 * **Data/CS:** 정보처리기사 (Engineer Information Processing), SQLD
 * **Language:** OPIc **IH** (Intermediate High)
 * **Skills:** AI Agent Orchestration, Serverless Architecture
