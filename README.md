@@ -1,7 +1,7 @@
 # Hello, I'm Sumin 👋
 ### Cloud & AI Agent Engineer
 
-> **AWS와 Python을 활용해 지능형 에이전트와 효율적인 오케스트레이션을 설계합니다.**
+> AWS와 Python을 활용해 지능형 에이전트와 효율적인 오케스트레이션을 설계합니다.
 > 현재 클라우드 인프라 기반의 AI 솔루션 최적화와 자동화에 집중하고 있습니다.
 
 <br>
@@ -33,9 +33,9 @@
 <br>
 
 ## 🎖 Certificates & Skills
-* **AWS:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner, AWS Certified Solutions Architect - Associate
+* **AWS:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner, AWS Certified Solutions Architect - Associate, AWS Certified Generative AI Developer - Professional
 * **Data/CS:** 정보처리기사 (Engineer Information Processing), SQLD
-* **Language:** OPIc **IH** (Intermediate High)
+* **Language:** OPIc IH
 * **Skills:** AI Agent Orchestration, Serverless Architecture
 
 <br>
